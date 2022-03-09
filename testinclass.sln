@@ -3,10 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "session", "Session\session.csproj", "{A9041BFF-9C4D-467D-A334-038B2E452630}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "library", "Speaker\library.csproj", "{C66F9E91-CD9A-4B71-869D-F0A848162630}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,15 +10,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A9041BFF-9C4D-467D-A334-038B2E452630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A9041BFF-9C4D-467D-A334-038B2E452630}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A9041BFF-9C4D-467D-A334-038B2E452630}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A9041BFF-9C4D-467D-A334-038B2E452630}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C66F9E91-CD9A-4B71-869D-F0A848162630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C66F9E91-CD9A-4B71-869D-F0A848162630}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C66F9E91-CD9A-4B71-869D-F0A848162630}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C66F9E91-CD9A-4B71-869D-F0A848162630}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
