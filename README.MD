@@ -40,31 +40,4 @@
 
 16. Main directory run 'dotnet new xunit -o epiclib.tests'
 
-17. 
-
-18.
-
-19.
-
-20.
-
-21.
-
-22.
-
-23.
-
-24.
-
-25.
-
-26
-
-27.
-
-28.
-
-29.
-
-30.
 
